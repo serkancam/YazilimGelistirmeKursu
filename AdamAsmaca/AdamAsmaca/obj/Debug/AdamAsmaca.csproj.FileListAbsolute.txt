@@ -1,0 +1,13 @@
+C:\Users\serkancam\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\sorular.txt
+C:\Users\serkancam\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\serkancam\source\repos\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\serkancam\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csprojAssemblyReference.cache
+C:\Users\serkancam\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\serkancam\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+C:\Users\serkancam\source\repos\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
+C:\Users\serkancam\Desktop\kursta_yapilanlar\AdamAsmaca\AdamAsmaca\bin\Debug\sorular.txt
+C:\Users\serkancam\Desktop\kursta_yapilanlar\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\serkancam\Desktop\kursta_yapilanlar\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\serkancam\Desktop\kursta_yapilanlar\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\serkancam\Desktop\kursta_yapilanlar\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.exe
+C:\Users\serkancam\Desktop\kursta_yapilanlar\AdamAsmaca\AdamAsmaca\obj\Debug\AdamAsmaca.pdb
