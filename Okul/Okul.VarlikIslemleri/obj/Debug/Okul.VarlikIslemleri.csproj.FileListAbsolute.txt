@@ -1,0 +1,30 @@
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.dll
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.pdb
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.dll
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.pdb
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.VarlikIslemleri\obj\Debug\ResolveAssemblyReference.cache
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.dll
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.pdb
+E:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.dll
+E:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.pdb
+E:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.dll
+E:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.pdb
+E:\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\ResolveAssemblyReference.cache
+E:\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.dll
+E:\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.pdb
+G:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.dll
+G:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.pdb
+G:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.dll
+G:\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.pdb
+G:\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.csprojResolveAssemblyReference.cache
+G:\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.dll
+G:\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.pdb
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.dll
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.VarlikIslemleri.pdb
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.dll
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\bin\Debug\Okul.Varliklar.pdb
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.csprojAssemblyReference.cache
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.csproj.CoreCompileInputs.cache
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.csproj.CopyComplete
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.dll
+D:\Calismalar\csharp\Okul\Okul.VarlikIslemleri\obj\Debug\Okul.VarlikIslemleri.pdb

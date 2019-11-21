@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="okul" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PC-BILGISAYAR;Initial Catalog=okul;Integrated Security=True" SettingsObjectName="Okul.Arayuz.Properties.Settings" SettingsPropertyName="okulConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.dersler" Member="derslers">
+    <Type Name="dersler">
+      <Column Name="dersId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="dersAdi" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="dersOgretmeni" Type="System.String" DbType="Char(11) NOT NULL" CanBeNull="false" />
+      <Column Name="dersAciklama" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="dersler_sinifDersleri" Member="sinifDersleris" ThisKey="dersId" OtherKey="dersId" Type="sinifDersleri" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sinifDersleri" Member="sinifDersleris">
+    <Type Name="sinifDersleri">
+      <Column Name="dersId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="sinifId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="dersler_sinifDersleri" Member="dersler" ThisKey="dersId" OtherKey="dersId" Type="dersler" IsForeignKey="true" />
+      <Association Name="siniflar_sinifDersleri" Member="siniflar" ThisKey="sinifId" OtherKey="sinifId" Type="siniflar" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.siniflar" Member="siniflars">
+    <Type Name="siniflar">
+      <Column Name="sinifId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="sinif" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="sube" Type="System.String" DbType="Char(2) NOT NULL" CanBeNull="false" />
+      <Association Name="siniflar_sinifDersleri" Member="sinifDersleris" ThisKey="sinifId" OtherKey="sinifId" Type="sinifDersleri" />
+    </Type>
+  </Table>
+</Database>

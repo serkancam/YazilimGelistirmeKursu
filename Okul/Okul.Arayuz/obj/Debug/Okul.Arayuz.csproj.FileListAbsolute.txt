@@ -1,0 +1,100 @@
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.pdb
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.dll
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.dll
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.pdb
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.pdb
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\ResolveAssemblyReference.cache
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.AnaForm.resources
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DersIslemleriEkrani.resources
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DonemIslemleri.resources
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgrenciIslemEkrani.resources
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgretmenIslemleriEkrani.resources
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.Properties.Resources.resources
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.SiniflaraDersAtamaEkrani.resources
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.GenerateResource.Cache
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.exe
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.pdb
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.NotIslemleriEkrani.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.exe
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.pdb
+E:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe
+E:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.pdb
+E:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.dll
+E:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.dll
+E:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.pdb
+E:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.pdb
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\ResolveAssemblyReference.cache
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.AnaForm.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DersIslemleriEkrani.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DonemIslemleri.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.NotIslemleriEkrani.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgrenciIslemEkrani.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgretmenIslemleriEkrani.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.Properties.Resources.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.SiniflaraDersAtamaEkrani.resources
+E:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.GenerateResource.Cache
+E:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe.config
+G:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe.config
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.exe
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.pdb
+G:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe
+G:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.pdb
+G:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.dll
+G:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.dll
+G:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.pdb
+G:\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.pdb
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csprojResolveAssemblyReference.cache
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.AnaForm.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DersIslemleriEkrani.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DonemIslemleri.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.NotIslemleriEkrani.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgrenciIslemEkrani.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgretmenIslemleriEkrani.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.Properties.Resources.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.SiniflaraDersAtamaEkrani.resources
+G:\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.GenerateResource.Cache
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\hata.txt
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe.config
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.pdb
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.dll
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.dll
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.pdb
+D:\Calismalar\csharp\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.pdb
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csprojAssemblyReference.cache
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.AnaForm.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DersIslemleriEkrani.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DonemIslemleri.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.NotIslemleriEkrani.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgrenciIslemEkrani.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgretmenIslemleriEkrani.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.Properties.Resources.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.SiniflaraDersAtamaEkrani.resources
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.GenerateResource.cache
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.CoreCompileInputs.cache
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.CopyComplete
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.exe
+D:\Calismalar\csharp\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.pdb
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\hata.txt
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe.config
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.exe
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\Okul.Arayuz.pdb
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.dll
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.dll
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\Okul.VarlikIslemleri.pdb
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\bin\Debug\Okul.Varliklar.pdb
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csprojAssemblyReference.cache
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.AnaForm.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DersIslemleriEkrani.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.DonemIslemleri.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.NotIslemleriEkrani.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgrenciIslemEkrani.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.OgretmenIslemleriEkrani.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.Properties.Resources.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.SiniflaraDersAtamaEkrani.resources
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.GenerateResource.cache
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.CoreCompileInputs.cache
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.csproj.CopyComplete
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.exe
+C:\Users\serkancam\Desktop\Okul\Okul.Arayuz\obj\Debug\Okul.Arayuz.pdb

@@ -1,0 +1,19 @@
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.dll
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.pdb
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Varliklar\obj\Debug\ResolveAssemblyReference.cache
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.dll
+E:\dokumanlar\00_eğitim öğetim evrakları\2011-2012\dersler\Nesne tabanlı programlama-T11VT\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.pdb
+E:\csharp\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.dll
+E:\csharp\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.pdb
+E:\csharp\Okul\Okul.Varliklar\obj\Debug\ResolveAssemblyReference.cache
+E:\csharp\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.dll
+E:\csharp\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.pdb
+G:\csharp\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.dll
+G:\csharp\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.pdb
+G:\csharp\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.dll
+G:\csharp\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.pdb
+D:\Calismalar\csharp\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.dll
+D:\Calismalar\csharp\Okul\Okul.Varliklar\bin\Debug\Okul.Varliklar.pdb
+D:\Calismalar\csharp\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.csproj.CoreCompileInputs.cache
+D:\Calismalar\csharp\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.dll
+D:\Calismalar\csharp\Okul\Okul.Varliklar\obj\Debug\Okul.Varliklar.pdb

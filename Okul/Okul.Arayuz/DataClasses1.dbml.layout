@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="14ef8a1c-b006-4a48-8bce-fbe9078eba95" absoluteBounds="4.625, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClasses1DataContext/dersler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dce0a8e0-a15d-492d-8dfb-3a8d16f8c2d6" absoluteBounds="4.64, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e6ca41f4-1330-49a0-86f4-8917d6793feb" absoluteBounds="7.5, 1.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DataClasses1DataContext/sinifDersleri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a5cf8ee5-8df4-4153-9828-8f2ee44e7e53" absoluteBounds="7.515, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6.625 : 1.84699625651042); (7.5 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/dersler/dersler_sinifDersleri" />
+      <nodes>
+        <classShapeMoniker Id="14ef8a1c-b006-4a48-8bce-fbe9078eba95" />
+        <classShapeMoniker Id="e6ca41f4-1330-49a0-86f4-8917d6793feb" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="1a7ef34f-adfc-4244-97ff-6531a10eecbe" absoluteBounds="5.875, 3.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses1DataContext/siniflar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a02ac2b2-c4e5-4625-bcd2-a9b12c9d9d45" absoluteBounds="5.89, 4.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.6875 : 3.625); (7.6875 : 2.44399251302083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/siniflar/siniflar_sinifDersleri" />
+      <nodes>
+        <classShapeMoniker Id="1a7ef34f-adfc-4244-97ff-6531a10eecbe" />
+        <classShapeMoniker Id="e6ca41f4-1330-49a0-86f4-8917d6793feb" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

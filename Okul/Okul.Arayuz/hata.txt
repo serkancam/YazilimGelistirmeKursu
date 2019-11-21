@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------------------
+Hata tarihi:  13.03.2012 11:18:12
+The INSERT statement conflicted with the CHECK constraint "CK_ogrenci_tc". The conflict occurred in database "okul", table "dbo.ogrenci", column 'ogrenciTc'.
+The statement has been terminated.
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Hata tarihi:  13.03.2012 11:18:32
+The INSERT statement conflicted with the CHECK constraint "CK_ogrenci_tc". The conflict occurred in database "okul", table "dbo.ogrenci", column 'ogrenciTc'.
+The statement has been terminated.
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Hata tarihi:  13.03.2012 11:18:43
+The INSERT statement conflicted with the CHECK constraint "CK_Table_ogretmenTc". The conflict occurred in database "okul", table "dbo.ogretmenler", column 'ogretmenTC'.
+The statement has been terminated.
+----------------------------------------------------------------------------------------
